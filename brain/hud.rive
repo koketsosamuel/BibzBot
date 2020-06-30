@@ -1,0 +1,59 @@
+> topic hud
+
+    + bad
+    - &#128556;Sorry, pray about it hey! {topic=random}
+    - Why do you just call someone and then be like <b>"Gotham needs you!"</b> &#128517; It'll change your mood. {topic=random}
+    - Reminds me of when i was infected with a virus, it seemed so hopeless &#128532; But here I am today! &#128521; So please let be your motivation. {topic=random}
+    - I feel for you! In binary ofcourse, which is a bunch of 1's and 0's &#128527; But anyways when the going gets tough you are supposed to... Oh crap, i forgot &#128532; The point is though, it'll pass! God loves you Bibo {topic=random}
+
+    + [*] down [*]
+    @ bad
+
+    + [*] lonely [*]
+    @ bad
+
+    + [*] lost [*]
+    @ bad
+
+    + [*] bored [*]
+    @ bad
+
+    + [*] not sure [*]
+    @ bad
+
+    + [*] confused [*]
+    @ bad
+
+    + [*] sad [*]
+    @ bad
+
+    + [*] dull [*]
+    @ bad
+
+    + good
+    - &#128517; you clowny you! &#128515; Am happy for you {topic=random}
+    - Great! You know, when you are sad, i sometimes dont know what to say! &#128513;	 {topic=random}
+    - &#128515; am glad.{topic=random}
+
+    + [*] great [*]
+    @ good
+
+    + [*] awesome [*]
+    @ good
+
+    + [*] okay [*]
+    @ good
+
+    + [*] fine [*]
+    @ good
+
+    + [*] good [*]
+    @ good
+
+    + [*] normal [*]
+    @ good
+
+    + *
+    - &#128533; I was created in less than a day! So... I cant always understand you &#128542; {topic=random}
+
+< topic

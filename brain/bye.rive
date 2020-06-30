@@ -1,0 +1,14 @@
++ bye
+- Bye!
+- Have a good one!
+- Alright. Later!
+- God bless you!
+
++ [*] bye [*]
+@ bye
+
++ [*] night [*]
+@ bye
+
++ [*] later [*]
+@ bye

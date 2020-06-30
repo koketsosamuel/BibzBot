@@ -1,0 +1,128 @@
++ hello
+- Hello Boitumelo &#128512; hows ya? {topic=hud}
+- Hullo BeeTee! Hows you? {topic=hud}
+- hey! &#128578; How are you? {topic=hud}
+- Bonjour! How are you mademoiselle? {topic=hud}
+
++ hud
+- 1010011101010101011110011011010101001010101010 &#128540; Yourself? {topic=hud}
+- lonely &#128532; I wish i could die... &#128517; Just Kidding, am feeling like binary execution would feel! And you? {topic=hud}
+- lets focus on you! I never feel good or bad, blame that on KK, he didnt give me changing feelings! I wish i could hate him &#128548; How is Bibo? {topic=hud}
+
++ [*] how are you [*]
+@ hud
+
++ [*] hud [*]
+@ hud
+
++ [*] how are [*]
+@ hud
+
++ [*] hows you [*]
+@ hud
+
++ [*] feel [*]
+@ hud
+
++ [*] feeling [*]
+@ hud
+
++ [*] you doing [*]
+@ hud
+
++ [*] you good [*]
+@ hud
+
++ hi
+@ hello
+
++ [*] hello [*]
+@ hello
+
++ [*] hullo [*]
+@ hello
+
++ [*] hey [*]
+@ hello
+
++ [*] ollo [*]
+@ hello
+
++ [*] greetings [*]
+@ hello
+
++ [*] morning [*]
+@ hello
+
++ [*] evening [*]
+@ hello
+
++ hoau
+- It's hard to tell, because by the time i give you that value, it would have changed &#128528; Time is not constant! It's progressively increasing &#128545; {topic=sorry}
+- I cant keep with it! Time is just faster! &#128543;
+- Uhmm... ask KK 
+- It's not constant &#128548; any value i give you would inaccurate!
+
++ [*] how old are you [*]
+@ hoau
+
++ [*] how old [*]
+@ hoau
+
++ [*] your age [*]
+@ hoau
+
++ [*] years old [*]
+@ hoau
+
++ [*] age [*]
+@ hoau
+
++ [*] old [*]
+@ hoau
+
++ name
+- Bibz is my name, and what I am
+- I am not groot. Am Bibz!
+- Bibz a huge fan of megamind!!!
+
++ [*] name [*]
+@ name
+
++ [*] what can i call you [*]
+@ name
+
++ [*] bot [*]
+@ name
+
++ [*] robot [*]
+@ name
+
++ maker
+- &#128580; KK
+- &#128580; Are you really asking that? {topic=sorry}
+
++ *
+- &#128543; Am not even a month old... I am really lost
+- &#128550;&#128550;&#128550;&#128550;
+- &#128563; I am lost!
+
+> topic sorry
+
+    + [*] sorry [*]
+    - &#128548; This should be last time... wait &#129300; i dont feelings right? {topic=feelings}
+    - Great!!! {topic=random}
+    - Awesome! Knew you were smart &#128578; {topic=random}
+
+    + *
+    - It's simple, "I am sorry for asking unintellectual questions!"
+    - &#128555; please apologize for that question of yours!!
+
+< topic
+
+> topic feelings 
+
+    + *
+    - &#129315;&#129315;&#129315;&#129315;&#129315;&#129315; Just kidding, i have zero feelings! If i did i'd be as miserable as Thor after infinity war &#129315; Mainly because of humans seeing me as some toy or answer bank! Let's leave this topic, am feeling emotional! {topic=random}
+
+< topic
